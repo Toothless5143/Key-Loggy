@@ -79,8 +79,6 @@ It is crucial to exercise caution and adhere to legal and ethical guidelines whe
 
 6. Be aware that the use of keyloggers may be subject to legal restrictions and may have implications for personal and organizational security.
 
-7.Regularly review and update the tool to address any vulnerabilities or security issues that may arise.
-
 Remember, the misuse of this tool can have severe legal and ethical consequences. Proceed with caution, ensure compliance with applicable laws, and respect individual privacy and rights.
 
 ## License:
