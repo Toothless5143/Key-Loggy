@@ -1,4 +1,4 @@
-# Key-Loggy
+# KeyLoggy
 
 ## Description:
 
