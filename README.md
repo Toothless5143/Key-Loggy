@@ -42,6 +42,7 @@ To install and use Keyloggy, follow these steps:
    ```
 
 8. Ensure that the compiled executable is placed in a secure location on the target Windows system.
+9. Check out the [code breakdown blog](https://toothless5143.medium.com/a-complete-guide-to-making-a-keylogger-for-ethical-use-164dd304ffab) to understand the program better.
 
 ## Usage:
 
